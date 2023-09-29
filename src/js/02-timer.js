@@ -46,7 +46,6 @@ const onStartTimer = () => {
       daysEl.textContent = 0;
       hoursEl.textContent = 0;
       minutesEl.textContent = 0;
-      secsEl.textContent = 0;
     }
   }, 1000);
 };
